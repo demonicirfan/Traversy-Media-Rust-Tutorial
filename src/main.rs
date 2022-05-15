@@ -4,8 +4,11 @@
 //mod strings;
 //mod tuples;
 //mod vectors;
-mod conditionals;
+//mod loops;
+//mod functions;
+//mod pointer;
+mod structs;
 
 fn main() {
-    conditionals::run();
+    structs::run();
 }
